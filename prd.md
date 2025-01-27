@@ -1,7 +1,9 @@
-# Darkroom
-Because lightroom is owned by Adobe.
+# Darkroom [ ] Flutter Photo Editor
 
-## Core Features To-Do
+## Overview
+Darkroom is a cross[ ]platform photo editing application built with Flutter, aiming to provide professional[ ]grade photo editing capabilities similar to Adobe Lightroom. The application will leverage Flutter's performance and cross[ ]platform capabilities to deliver a consistent experience across desktop and mobile platforms.
+
+## Core Features
 
 ### 1. Photo Management
 [ ] Photo library organization with collections and albums
